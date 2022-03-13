@@ -1,6 +1,7 @@
 package com.example.jetpackui
 
 import android.os.Bundle
+import android.widget.SearchView
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.compose.foundation.Image
@@ -39,12 +40,14 @@ class MainActivity : ComponentActivity() {
                 // A surface container using the 'background' color from the theme
                 Surface(color = MaterialTheme.colors.background) {
                     showSearchBar()
-                    showList()
+                    showList(listRestaurants)
                 }
             }
         }
     }
 }
+
+
 
 @Composable
 fun showRestaurantList(items : Restaurants) {
@@ -80,7 +83,6 @@ fun showSearchBar(){
     Row{
         Box(contentAlignment = Alignment.TopCenter, modifier = Modifier.fillMaxWidth(1f).size(150.dp)){
             var text by remember { mutableStateOf("") }
-
             OutlinedTextField(
                 value = text,
                 onValueChange = { text = it },
@@ -93,9 +95,9 @@ fun showSearchBar(){
 }
 
 @Composable
-fun showList(){
+fun showList(list : List<Restaurants>){
     LazyColumn(modifier = Modifier.height(870.dp).padding(0.dp, 70.dp, 0.dp, 0.dp)){
-        items(listRestaurants) { items ->
+        items(list) { items ->
             showRestaurantList(items)
         }
     }
@@ -105,6 +107,6 @@ fun showList(){
 @Composable
 fun DefaultPreview() {
     JetpackUITheme {
-        showList()
+        showList(listRestaurants)
     }
 }
