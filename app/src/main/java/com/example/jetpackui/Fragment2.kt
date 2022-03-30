@@ -51,7 +51,7 @@ class Fragment2 : Fragment(){
     fun showHorizontalList(list: MutableList<items>){
         Row{
             LazyRow(modifier = Modifier
-                .height(500.dp)
+                .height(100.dp)
                 .padding(0.dp, 10.dp, 0.dp, 0.dp)){
                 items(list) { items ->
                     horizontalList(items)

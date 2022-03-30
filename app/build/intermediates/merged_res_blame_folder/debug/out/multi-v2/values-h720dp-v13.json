@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\raul.meizosolopez\\Desktop\\RestaurantList-ui-JetpackCompose\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
+            "outputFile": "D:\\Android\\RestaurantList-ui-JetpackCompose\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\raul.meizosolopez\\.gradle\\caches\\transforms-3\\b73e9c9dedbf107b7058ba2d5e0b4e1c\\transformed\\appcompat-1.4.1\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "source": "C:\\Users\\Raúl Meizoso López\\.gradle\\caches\\transforms-3\\b73e9c9dedbf107b7058ba2d5e0b4e1c\\transformed\\appcompat-1.4.1\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

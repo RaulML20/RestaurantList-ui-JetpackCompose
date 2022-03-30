@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\raul.meizosolopez\\Desktop\\RestaurantList-ui-JetpackCompose\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
+            "outputFile": "D:\\Android\\RestaurantList-ui-JetpackCompose\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\raul.meizosolopez\\.gradle\\caches\\transforms-3\\b73e9c9dedbf107b7058ba2d5e0b4e1c\\transformed\\appcompat-1.4.1\\res\\values-large-v4\\values-large-v4.xml",
+                    "source": "C:\\Users\\Raúl Meizoso López\\.gradle\\caches\\transforms-3\\b73e9c9dedbf107b7058ba2d5e0b4e1c\\transformed\\appcompat-1.4.1\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\raul.meizosolopez\\.gradle\\caches\\transforms-3\\4655ed2242b9e1ecf98a0b7b9affdf66\\transformed\\material-1.5.0\\res\\values-large-v4\\values-large-v4.xml",
+                    "source": "C:\\Users\\Raúl Meizoso López\\.gradle\\caches\\transforms-3\\4655ed2242b9e1ecf98a0b7b9affdf66\\transformed\\material-1.5.0\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,10",
                         "startColumns": "4,4,4,4",

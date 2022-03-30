@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.JetpackUI">
         <activity
+            android:name=".RestaurantProfile"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="false" />
         <activity

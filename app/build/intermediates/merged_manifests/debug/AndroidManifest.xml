@@ -25,6 +25,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.JetpackUI" >
         <activity
+            android:name="com.example.jetpackui.RestaurantProfile"
+            android:exported="false" />
+        <activity
             android:name="com.example.jetpackui.MainActivity"
             android:exported="false" />
         <activity

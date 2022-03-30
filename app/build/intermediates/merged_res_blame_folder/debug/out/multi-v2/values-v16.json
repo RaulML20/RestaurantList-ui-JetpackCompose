@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\raul.meizosolopez\\Desktop\\RestaurantList-ui-JetpackCompose\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "outputFile": "D:\\Android\\RestaurantList-ui-JetpackCompose\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\raul.meizosolopez\\.gradle\\caches\\transforms-3\\acb209d88ce91ed7fb4d20f7c42190d1\\transformed\\core-1.7.0\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\Raúl Meizoso López\\.gradle\\caches\\transforms-3\\acb209d88ce91ed7fb4d20f7c42190d1\\transformed\\core-1.7.0\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\raul.meizosolopez\\.gradle\\caches\\transforms-3\\b73e9c9dedbf107b7058ba2d5e0b4e1c\\transformed\\appcompat-1.4.1\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\Raúl Meizoso López\\.gradle\\caches\\transforms-3\\b73e9c9dedbf107b7058ba2d5e0b4e1c\\transformed\\appcompat-1.4.1\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
